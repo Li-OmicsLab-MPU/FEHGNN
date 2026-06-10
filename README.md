@@ -3,6 +3,14 @@
 ## Introduction
 * Source code for the paper "Fingerprint-enhanced hierarchical molecular graph neural networks for property prediction".
 
+* We propose a novel Fingerprint-enhanced Hierarchical Graph Neural Network (FH-GNN) for molecular property prediction, which simultaneously learned information from both hierarchical molecular graphs and molecular fingerprints.
+
+![Fingerprint-enhanced Hierarchical Graph Neural Network](images/fig1.png)
+
+
+## Dataset
+All data used in this paper are publicly available on [Molecule-Net](https://github.com/deepchem/deepchem/tree/master/deepchem/molnet/load_function).
+
 ## Environment
 * base dependencies:
 ```
